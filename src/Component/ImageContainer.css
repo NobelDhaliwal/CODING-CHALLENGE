@@ -1,0 +1,9 @@
+.ImageContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  margin-top: 50px;
+  /* margin: auto; */
+}
