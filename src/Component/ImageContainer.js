@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./ImageContainer.css";
 import Box from "./Box";
-import { rgbValue, generateColors } from "./Helper";
+import { rgbValue, generateColors } from "./Data";
 
 class ImageContainer extends Component {
   // Number of color boxes want shows by default

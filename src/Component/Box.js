@@ -19,7 +19,7 @@ class Box extends Component {
         onClick={this.handleChangeColor}
         style={{
           backgroundColor: this.props.color,
-          width: "85px",
+          width: "75px",
           height: "600px",
         }}
       />
